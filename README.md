@@ -1,2 +1,2 @@
 # personal-projects
-A repo for Valo's personal projects, things pertaining to hobbies he holds that can assist in explaining his skills in a professional context.
+This repo contains a lot of simple python scripts that mainly serve to do nothing other than be fun. I'll also be posting documentation and writeups for projects undergone in class.
