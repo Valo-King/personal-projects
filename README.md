@@ -1,0 +1,1 @@
+This is a simple repository to help me manage the drafts of the writeups I need to do to quantify what I've done in my lab environment. I want to be able to do them in a professional enough manner as to use them for employment opportunities.
